@@ -4870,9 +4870,9 @@ body {
     margin: 0 15px 15px 0;
     -webkit-box-shadow: 0 8px 21px rgba(52, 115, 251, .11);
     box-shadow: 0 8px 21px rgba(52, 115, 251, .11);
-    background: url(../img/time-out-bg.png) no-repeat center center/cover
 }
-
+/*    background: url(../img/time-out-bg.png) no-repeat center center/cover
+*/
 .jackpot-history__img {
     margin-right: 30px
 }
@@ -4926,7 +4926,7 @@ body {
     margin-right: 15px;
     -webkit-box-shadow: 0 8px 21px rgba(52, 115, 251, .11);
     box-shadow: 0 8px 21px rgba(52, 115, 251, .11);
-    background: url(../img/new-game-bg.png) no-repeat center center/cover
+    /*background: url(../img/new-game-bg.png) no-repeat center center/cover*/
 }
 
 .jackpot-history-bottom__left {
