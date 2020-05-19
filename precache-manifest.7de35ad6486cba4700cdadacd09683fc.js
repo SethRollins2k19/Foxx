@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78d5ad4ed6b62f3383a76332ed99e414",
+    "revision": "e15f48820987d41db7e74292cf6cf291",
     "url": "/foxx/index.html"
   },
   {
-    "revision": "b99c3776eab131a03ee4",
+    "revision": "0bafd3e1c44d9dd29c82",
     "url": "/foxx/static/css/2.dde90a20.chunk.css"
   },
   {
-    "revision": "bd9f2fd5270050d3455a",
-    "url": "/foxx/static/css/main.eaf00123.chunk.css"
+    "revision": "593229312ae42520e53d",
+    "url": "/foxx/static/css/main.64c2973c.chunk.css"
   },
   {
-    "revision": "b99c3776eab131a03ee4",
-    "url": "/foxx/static/js/2.b44b9a7d.chunk.js"
+    "revision": "0bafd3e1c44d9dd29c82",
+    "url": "/foxx/static/js/2.7be3edde.chunk.js"
   },
   {
     "revision": "ffa35a34964860fdc97ed79ca9abd27c",
-    "url": "/foxx/static/js/2.b44b9a7d.chunk.js.LICENSE.txt"
+    "url": "/foxx/static/js/2.7be3edde.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd9f2fd5270050d3455a",
-    "url": "/foxx/static/js/main.db055d7e.chunk.js"
+    "revision": "593229312ae42520e53d",
+    "url": "/foxx/static/js/main.26439ac8.chunk.js"
   },
   {
     "revision": "e60ab74ade719b5ca1a2",
@@ -106,10 +106,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a64eb5ef9bd4670f17a26630974e1282",
     "url": "/foxx/static/media/Taile.a64eb5ef.woff"
-  },
-  {
-    "revision": "acbaf9048b2abe8491eab1b651c309ab",
-    "url": "/foxx/static/media/dark-roulette-blur.acbaf904.png"
   },
   {
     "revision": "6221255896076895698a71b1b735b8f7",
