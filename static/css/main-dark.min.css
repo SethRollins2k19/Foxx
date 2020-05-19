@@ -249,7 +249,7 @@ template {
 .ic-vk-blue,
 .ic-youtube {
     display: inline-block;
-    background: url(../img/sprite.png) no-repeat;
+    /*background: url(../img/sprite.png) no-repeat;*/
     overflow: hidden;
     text-indent: -9999px;
     text-align: left
