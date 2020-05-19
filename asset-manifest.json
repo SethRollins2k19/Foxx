@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/foxx/static/css/main.64c2973c.chunk.css",
+    "main.css": "/foxx/static/css/main.4d35f617.chunk.css",
     "main.js": "/foxx/static/js/main.1829629d.chunk.js",
     "main.js.map": "/foxx/static/js/main.1829629d.chunk.js.map",
     "runtime-main.js": "/foxx/static/js/runtime-main.8a7b9aaf.js",
@@ -9,10 +9,10 @@
     "static/js/2.7be3edde.chunk.js": "/foxx/static/js/2.7be3edde.chunk.js",
     "static/js/2.7be3edde.chunk.js.map": "/foxx/static/js/2.7be3edde.chunk.js.map",
     "index.html": "/foxx/index.html",
-    "precache-manifest.46f609de93293a01e09cfee7ad05ebb4.js": "/foxx/precache-manifest.46f609de93293a01e09cfee7ad05ebb4.js",
+    "precache-manifest.41eac993f0c54fe94b7abaf8309714d2.js": "/foxx/precache-manifest.41eac993f0c54fe94b7abaf8309714d2.js",
     "service-worker.js": "/foxx/service-worker.js",
     "static/css/2.dde90a20.chunk.css.map": "/foxx/static/css/2.dde90a20.chunk.css.map",
-    "static/css/main.64c2973c.chunk.css.map": "/foxx/static/css/main.64c2973c.chunk.css.map",
+    "static/css/main.4d35f617.chunk.css.map": "/foxx/static/css/main.4d35f617.chunk.css.map",
     "static/js/2.7be3edde.chunk.js.LICENSE.txt": "/foxx/static/js/2.7be3edde.chunk.js.LICENSE.txt",
     "static/media/material-icons.css": "/foxx/static/media/MaterialIcons-Regular.d120c85b.ttf",
     "static/media/main.min.css": "/foxx/static/media/time-out-bg.2c2a0493.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.8a7b9aaf.js",
     "static/css/2.dde90a20.chunk.css",
     "static/js/2.7be3edde.chunk.js",
-    "static/css/main.64c2973c.chunk.css",
+    "static/css/main.4d35f617.chunk.css",
     "static/js/main.1829629d.chunk.js"
   ]
 }
