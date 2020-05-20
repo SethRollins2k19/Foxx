@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/foxx/static/css/main.4d35f617.chunk.css",
-    "main.js": "/foxx/static/js/main.1829629d.chunk.js",
-    "main.js.map": "/foxx/static/js/main.1829629d.chunk.js.map",
+    "main.css": "/foxx/static/css/main.47884535.chunk.css",
+    "main.js": "/foxx/static/js/main.12e87ebd.chunk.js",
+    "main.js.map": "/foxx/static/js/main.12e87ebd.chunk.js.map",
     "runtime-main.js": "/foxx/static/js/runtime-main.8a7b9aaf.js",
     "runtime-main.js.map": "/foxx/static/js/runtime-main.8a7b9aaf.js.map",
     "static/css/2.dde90a20.chunk.css": "/foxx/static/css/2.dde90a20.chunk.css",
-    "static/js/2.7be3edde.chunk.js": "/foxx/static/js/2.7be3edde.chunk.js",
-    "static/js/2.7be3edde.chunk.js.map": "/foxx/static/js/2.7be3edde.chunk.js.map",
+    "static/js/2.d8c20818.chunk.js": "/foxx/static/js/2.d8c20818.chunk.js",
+    "static/js/2.d8c20818.chunk.js.map": "/foxx/static/js/2.d8c20818.chunk.js.map",
     "index.html": "/foxx/index.html",
-    "precache-manifest.41eac993f0c54fe94b7abaf8309714d2.js": "/foxx/precache-manifest.41eac993f0c54fe94b7abaf8309714d2.js",
+    "precache-manifest.7b269d2c6c3f0823e444d5e4ec6da9ea.js": "/foxx/precache-manifest.7b269d2c6c3f0823e444d5e4ec6da9ea.js",
     "service-worker.js": "/foxx/service-worker.js",
     "static/css/2.dde90a20.chunk.css.map": "/foxx/static/css/2.dde90a20.chunk.css.map",
-    "static/css/main.4d35f617.chunk.css.map": "/foxx/static/css/main.4d35f617.chunk.css.map",
-    "static/js/2.7be3edde.chunk.js.LICENSE.txt": "/foxx/static/js/2.7be3edde.chunk.js.LICENSE.txt",
+    "static/css/main.47884535.chunk.css.map": "/foxx/static/css/main.47884535.chunk.css.map",
+    "static/js/2.d8c20818.chunk.js.LICENSE.txt": "/foxx/static/js/2.d8c20818.chunk.js.LICENSE.txt",
     "static/media/material-icons.css": "/foxx/static/media/MaterialIcons-Regular.d120c85b.ttf",
     "static/media/main.min.css": "/foxx/static/media/time-out-bg.2c2a0493.png",
+    "static/media/admin.fontFace.css": "/foxx/static/media/Roboto-Medium.d0884059.ttf",
     "static/media/mv.png": "/foxx/static/media/mv.62212558.png",
     "static/media/yandex.png": "/foxx/static/media/yandex.0f8cf707.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8a7b9aaf.js",
     "static/css/2.dde90a20.chunk.css",
-    "static/js/2.7be3edde.chunk.js",
-    "static/css/main.4d35f617.chunk.css",
-    "static/js/main.1829629d.chunk.js"
+    "static/js/2.d8c20818.chunk.js",
+    "static/css/main.47884535.chunk.css",
+    "static/js/main.12e87ebd.chunk.js"
   ]
 }
